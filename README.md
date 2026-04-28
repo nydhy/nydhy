@@ -2,7 +2,7 @@
 
 > ☕ Translating caffeine into code
 
-MS Applied ML @ University of Maryland. I build at the intersection of **machine learning**, **security**, and **human-centered software** — things that are useful before they're impressive.
+MS Applied ML @ University of Maryland. I build at the intersection of **machine learning**, **security**, and **human-centered software**
 
 Previously at [@angel-one](https://github.com/angel-one). Find me on [LinkedIn](https://www.linkedin.com/in/ks-sreenidhi/).
 
