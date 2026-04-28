@@ -30,7 +30,3 @@ Backend     PostgreSQL · FastAPI · Gin · Supabase
 ```
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nydhy&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
-</p>
