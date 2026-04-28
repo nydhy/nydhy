@@ -24,10 +24,9 @@ Previously at [@angel-one](https://github.com/angel-one). Find me on [LinkedIn](
 ## Stack
 
 ```
-Languages   Python · Go · TypeScript · JavaScript
-ML/CV       YOLOv8 · MediaPipe · Gemini · Claude API · Ollama
-Backend     FastAPI · Gin · SQLAlchemy
-Frontend    React · Vite · Tailwind
+Languages   Python · Go
+AI/ML       YOLOv8 · MediaPipe · Gemini · Claude API · Ollama
+Backend     PostgreSQL · FastAPI · Gin · Supabase 
 ```
 
 ---
