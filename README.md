@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hey, I'm Sreenidhi 👋
 
-<!--
-**nydhy/nydhy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> ☕ Translating caffeine into code
 
-Here are some ideas to get you started:
+MS Applied ML @ University of Maryland. I build at the intersection of **machine learning**, **security**, and **human-centered software** — things that are useful before they're impressive.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Previously at [@angel-one](https://github.com/angel-one). Find me on [LinkedIn](https://www.linkedin.com/in/ks-sreenidhi/).
+
+---
+
+## Things I'm building
+
+| Project | What it does | Stack |
+|---|---|---|
+| [aegis-llm](https://github.com/nydhy/aegis-llm) | LLM proxy with entropy-based threat detection and adaptive token budget protection | Go |
+| [LLMshield-ai](https://github.com/nydhy/LLMshield-ai) | Safety and observability tooling for LLM applications | Python |
+| [majka](https://github.com/nydhy/majka) | Postpartum companion — AI recovery plans, posture tracking via MediaPipe, and chatbot support | Python · React |
+| [komrade](https://github.com/nydhy/komrade) | Local-first mental health app with buddy networks, mood check-ins, SOS features, and AI chat | Python · React |
+| [roast-my-roomie](https://github.com/nydhy/roast-my-roomie) | Anonymous roommate conflict mediator — Claude rewrites complaints constructively, gamified bill tracking | Go · TypeScript |
+| [semaDepth](https://github.com/nydhy/semaDepth) | 2D camera → real-world distance via YOLOv8 detection + triangle similarity calibration | JS · FastAPI |
+
+---
+
+## Stack
+
+```
+Languages   Python · Go · TypeScript · JavaScript
+ML/CV       YOLOv8 · MediaPipe · Gemini · Claude API · Ollama
+Backend     FastAPI · Gin · SQLAlchemy
+Frontend    React · Vite · Tailwind
+```
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nydhy&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+</p>
