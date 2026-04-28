@@ -24,9 +24,14 @@ Previously at [@angel-one](https://github.com/angel-one). Find me on [LinkedIn](
 ## Stack
 
 ```
-Languages   Go · Python
-AI/ML       YOLOv8 · MediaPipe · Gemini · Claude API · Ollama
-Backend     Gin · FastAPI · Supabase · PostgreSQL
+Languages   Python · Go · TypeScript · JavaScript
+ML/CV       YOLOv8 · MediaPipe · Gemini · Claude API · Ollama
+Backend     FastAPI · Gin · SQLAlchemy
+Frontend    React · Vite · Tailwind
 ```
 
+---
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nydhy&show_icons=true&hide_border=true&count_private=true&theme=default" alt="GitHub stats" />
+</p>
