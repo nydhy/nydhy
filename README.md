@@ -12,7 +12,6 @@ Previously at [@angel-one](https://github.com/angel-one). Find me on [LinkedIn](
 
 | Project | What it does | Stack |
 |---|---|---|
-| [aegis-llm](https://github.com/nydhy/aegis-llm) | LLM proxy with entropy-based threat detection and adaptive token budget protection | Go |
 | [majka](https://github.com/nydhy/majka) | Postpartum companion — AI recovery plans, posture tracking via MediaPipe, and chatbot support | Python · React |
 | [komrade](https://github.com/nydhy/komrade) | Local-first mental health app with buddy networks, mood check-ins, SOS features, and AI chat | Python · React |
 | [roast-my-roomie](https://github.com/nydhy/roast-my-roomie) | Anonymous roommate conflict mediator — Claude rewrites complaints constructively, gamified bill tracking | Go · TypeScript |
